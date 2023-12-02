@@ -1,3 +1,5 @@
+mod aoc2023;
+
 fn main() {
-    println!("Hello, world!");
+    aoc2023::day2::solve2();
 }
