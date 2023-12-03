@@ -1,5 +1,5 @@
 mod aoc2023;
 
 fn main() {
-    aoc2023::day2::solve2();
+    aoc2023::day3::solve2();
 }
